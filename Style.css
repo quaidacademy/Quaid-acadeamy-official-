@@ -1,0 +1,12 @@
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; }
+header { background: #007BFF; color: white; padding: 20px 0; text-align: center; }
+header h1 { margin: 0; font-size: 2.5em; }
+header p { margin: 5px 0; }
+.btn { display: inline-block; padding: 10px 20px; background: #FFC107; color: black; text-decoration: none; margin-top: 10px; border-radius: 5px; }
+section { padding: 40px 20px; }
+.courses ul { list-style: none; padding: 0; }
+.courses li { background: #f4f4f4; margin: 10px 0; padding: 10px; border-radius: 5px; }
+.contact form { display: flex; flex-direction: column; max-width: 400px; margin: auto; }
+.contact input, .contact textarea { padding: 10px; margin: 5px 0; border: 1px solid #ccc; border-radius: 5px; }
+.contact button { padding: 10px; background: #007BFF; color: white; border: none; border-radius: 5px; cursor: pointer; }
+footer { background: #333; color: white; text-align: center; padding: 10px 0; }
